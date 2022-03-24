@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Tecnologia
 - 🌱 I’m currently learning ...Analise e desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on ... Projetos em Python / java / sql
-- 📫 How to reach me ...
+- 📫 How to reach me ... Renatofelixmartins1304@gmail.com
 
 <!---
 RenatoMartins13/RenatoMartins13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
